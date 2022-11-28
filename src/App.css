@@ -1,0 +1,9 @@
+.App{
+  font-size:'Roboto', sans-serif;
+}
+
+.vertical-divier{
+  width:2px;
+  height:auto;
+  background: whitesmoke;
+}
