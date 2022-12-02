@@ -26,7 +26,7 @@ export default function SideMenu(){
         }
     ]
     return(
-        <div className="w-25 mt-3 mx-5"> 
+        <div className="w-20 mt-3 mx-5"> 
         {Twitter_SVG}
 {menu.map((item,index)=>
         <MenuItem item={item} key={index}/> )}
